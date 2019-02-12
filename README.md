@@ -3,4 +3,4 @@
 ### Flask
 https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask
 
-https://scotch.io/tutorials/build-a-crud-web-app-with-python-and-flask-part-one
+https://www.codementor.io/garethdwyer/building-a-crud-application-with-flask-and-sqlalchemy-dm3wv7yu2
