@@ -12,3 +12,4 @@ https://www.codementor.io/garethdwyer/building-a-crud-application-with-flask-and
 
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
+https://medium.freecodecamp.org/structuring-a-flask-restplus-web-service-for-production-builds-c2ec676de563
